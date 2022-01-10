@@ -1,0 +1,2 @@
+# Redirect to Simple Wikipedia
+ 
